@@ -1,0 +1,7 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+publish_shiny.R
+rsconnect/
+shiny_data/
