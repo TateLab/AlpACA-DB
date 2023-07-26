@@ -9,4 +9,4 @@ AlpACA-DB can be found [here](https://tatelab.shinyapps.io/alpaca-db/).
 
 Example usage below:
 
-![image](https://github.com/ehwmatt/AlpACA-DB/assets/59917617/764f51fc-b1a9-46b6-b77e-c25c76af28d3)
+![image](https://github.com/TateLab/AlpACA-DB/blob/883f31ec6d080544e65ed7213625b6a96d55c5c9/tatelab.shinyapps.io_alpaca-db_.png)
